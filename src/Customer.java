@@ -2,7 +2,7 @@
 import java.lang.*;
 import java.util.*;
 
-class Customer { //IF ANYONE IS EVER READING THIS AGAIN, SEND ME A MESSAGE AND I'LL PAY YOU A 6-PACK BEER!
+class Customer { //IF ANYONE IS EVER READING THIS IN ORDER OF SE REVIEWS, SEND ME A MESSAGE AND I'LL PAY YOU A 6-PACK BEER!
     private String name;
     private Vector rentals = new Vector();
     public Customer (String newname){
